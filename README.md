@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oscar
+- 👋 Hey, I’m Oscar
 - 🐍 Working mainly in Python, but learning other languages
 
   
