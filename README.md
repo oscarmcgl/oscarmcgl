@@ -6,3 +6,5 @@
 ![oscarmcgl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscarmcgl&theme=tokyonight&hide_border=false)
 
 ![oscarmcgl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmcgl&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=oscarmcgl&label=Profile%20Views&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
